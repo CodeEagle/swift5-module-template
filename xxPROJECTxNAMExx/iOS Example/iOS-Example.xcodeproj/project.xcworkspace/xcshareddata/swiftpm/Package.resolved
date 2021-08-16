@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FlyUIKit",
+        "repositoryURL": "git@git.yx.netease.com:Fly/iOS/FlyUIKit.git",
+        "state": {
+          "branch": null,
+          "revision": "4fa94dcced30545536b5bb0f82f8735bfd511453",
+          "version": "7.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
